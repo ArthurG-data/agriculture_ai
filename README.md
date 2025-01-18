@@ -51,15 +51,17 @@ Pasture yield prediction is a critical task for effective livestock management, 
 - **Source**: TSDM data inferred from Sentinel-2 satellite imagery (2017–2023) for paddocks in the Central Tablelands, New South Wales, Australia.
 - **Features**: Rainfall, temperature, humidity, evaporation, radiation, and TSDM measurements.
 
-<p>
-  <img src="https://github.com/user-attachments/assets/9e383dc8-9e8f-46a9-a6e6-f9d3f65c343e">
-  <img src="https://github.com/user-attachments/assets/9e383dc8-9e8f-46a9-a6e6-f9d3f65c343e">
-</p>
+
 ---
 
 ## Data and Results
 This section will include visualizations of the dataset and model performance. Add your graphs and plots here to provide an overview of the data trends and key results.
 
+<p>
+  
+  <img src="https://github.com/user-attachments/assets/img/Screenshot 2025-01-19 094124.png">
+  <img src="https://github.com/user-attachments/assets/img/Screenshot 2025-01-19 094143.png">
+</p>
 ---
 
 ## Method Summary
