@@ -59,8 +59,8 @@ This section will include visualizations of the dataset and model performance. A
 
 <p>
   
-  <img src="https://github.com/user-attachments/assets/img/Screenshot 2025-01-19 094124.png">
-  <img src="https://github.com/user-attachments/assets/img/Screenshot 2025-01-19 094143.png">
+  <img src="assets/img/Screenshot 2025-01-19 094124.png">
+  <img src="assets/img/Screenshot 2025-01-19 094143.png">
 </p>
 ---
 
