@@ -1,6 +1,6 @@
 [Click here to view the PowerPoint slideshow](https://docs.google.com/presentation/d/1WfQIESPRCUSavsE9W9vS7aWTgSwFEz7I/edit?usp=drive_link&ouid=114556454877851613541&rtpof=true&sd=true)
 
-[Click here to download the data. 800mb zipped file](https://docs.google.com/presentation/d/1WfQIESPRCUSavsE9W9vS7aWTgSwFEz7I/edit?usp=drive_link&ouid=114556454877851613541&rtpof=true&sd=true)
+[Click here to download the data. 800mb zipped file](https://drive.google.com/file/d/1gMkG0yZ4GshUnPIovtoaXYVEOeeRqhwk/view?usp=drive_link)
 
 # Grazing into the Future: Pasture Yield Prediction
 
@@ -70,8 +70,7 @@ This section will include a diagram summarizing the methods used in the project.
 ---
 
 ## Results Summary
-- **VAR RMSE**: 108–219 kg/ha across horizons.
-- **RNN RMSE**: 70–182 kg/ha, with variability in MAE.
+
 - **Conclusion**: VAR is a robust baseline, while RNNs hold promise with sufficient data and model optimization.
 
 <img src="assets/img/Screenshot 2025-01-19 100228.png">
