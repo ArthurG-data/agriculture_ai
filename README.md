@@ -2,6 +2,10 @@
 
 [Click here to download the data. 800mb zipped file](https://drive.google.com/file/d/1gMkG0yZ4GshUnPIovtoaXYVEOeeRqhwk/view?usp=drive_link)
 
+<p align="center">
+  <img src="assets/img/banner_agr.webp" alt="banner logo">
+</p>
+
 # Grazing into the Future: Pasture Yield Prediction
 
 This project explores pasture yield prediction using statistical and deep learning models, specifically comparing **Vector Autoregression (VAR)** and **Recurrent Neural Networks (RNNs)** with Long Short-Term Memory (LSTM) layers. The focus is on forecasting **Total Standing Dry Matter (TSDM)** using multivariate climate data for better livestock management.
