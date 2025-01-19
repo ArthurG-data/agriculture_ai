@@ -58,15 +58,16 @@ Pasture yield prediction is a critical task for effective livestock management, 
 This section will include visualizations of the dataset and model performance. Add your graphs and plots here to provide an overview of the data trends and key results.
 
 <p>
-  
   <img src="assets/img/Screenshot 2025-01-19 094124.png">
   <img src="assets/img/Screenshot 2025-01-19 094143.png">
+  <img src="assets/img/Screenshot 2025-01-19 094159.png">
 </p>
 ---
 
 ## Method Summary
 This section will include a diagram summarizing the methods used in the project. Add your graphical representation of the workflow here to illustrate the methodology.
 
+<img src="assets/img/Screenshot 2025-01-19 094228.png">
 ---
 
 ## Results Summary
