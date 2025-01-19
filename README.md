@@ -7,6 +7,12 @@
 This project explores pasture yield prediction using statistical and deep learning models, specifically comparing **Vector Autoregression (VAR)** and **Recurrent Neural Networks (RNNs)** with Long Short-Term Memory (LSTM) layers. The focus is on forecasting **Total Standing Dry Matter (TSDM)** using multivariate climate data for better livestock management.
 
 ---
+## Technologies Used
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"/>
+</p>
 
 ## Introduction
 Pasture yield prediction is a critical task for effective livestock management, ensuring adequate feed availability while avoiding overgrazing. This project focuses on forecasting Total Standing Dry Matter (TSDM), an essential metric for assessing pasture productivity. By leveraging statistical and deep learning models, this study aims to improve yield prediction accuracy and provide insights into the applicability of advanced neural network architectures in agricultural contexts. 
