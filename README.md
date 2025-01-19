@@ -60,14 +60,13 @@ This section will include visualizations of the dataset and model performance. A
 <p>
   <img src="assets/img/Screenshot 2025-01-19 094124.png">
   <img src="assets/img/Screenshot 2025-01-19 094143.png">
-  <img src="assets/img/Screenshot 2025-01-19 094159.png">
 </p>
 ---
 
 ## Method Summary
 This section will include a diagram summarizing the methods used in the project. Add your graphical representation of the workflow here to illustrate the methodology.
 
-<img src="assets/img/Screenshot 2025-01-19 094228.png">
+<img src="assets/img/Screenshot 2025-01-19 094159.png">
 ---
 
 ## Results Summary
@@ -75,6 +74,7 @@ This section will include a diagram summarizing the methods used in the project.
 - **RNN RMSE**: 70–182 kg/ha, with variability in MAE.
 - **Conclusion**: VAR is a robust baseline, while RNNs hold promise with sufficient data and model optimization.
 
+<img src="assets/img/Screenshot 2025-01-19 094228.png">
 ---
 
 ## Contributors
