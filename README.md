@@ -74,6 +74,7 @@ This section will include a diagram summarizing the methods used in the project.
 - **RNN RMSE**: 70–182 kg/ha, with variability in MAE.
 - **Conclusion**: VAR is a robust baseline, while RNNs hold promise with sufficient data and model optimization.
 
+<img src="assets/img/Screenshot 2025-01-19 100228.png">
 <img src="assets/img/Screenshot 2025-01-19 094228.png">
 ---
 
